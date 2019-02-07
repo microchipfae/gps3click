@@ -1,0 +1,9 @@
+# Not required to preserve MPLABX 
+/build
+/debug
+/dist
+/nbproject/Makefile-*
+/nbproject/Package-*
+/.vscode
+
+
